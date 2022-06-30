@@ -1,26 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2022-06-30T05:30:53.607Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="L7Y0E5N5mqqiSD8JVUQs" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-30T05:34:52.739Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="z4-gLZU6TH-VrlBW_eoj" version="18.0.7" type="github">
   <diagram id="c1B_nayesOdQMAULYURK" name="Page-1">
     <mxGraphModel dx="796" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LEmi7CgOE6bSKT9T-nRJ-3" value="USSD GATEWAY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LEmi7CgOE6bSKT9T-nRJ-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="170" width="120" height="210" as="geometry" />
         </mxCell>
         <mxCell id="LEmi7CgOE6bSKT9T-nRJ-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="83" y="190" width="35" height="50" as="geometry" />
+          <mxGeometry x="70" y="203" width="35" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LEmi7CgOE6bSKT9T-nRJ-5" value="" style="shape=mxgraph.signs.tech.cell_phone;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="77" y="310" width="43" height="68" as="geometry" />
+          <mxGeometry x="75" y="282" width="30" height="58" as="geometry" />
         </mxCell>
         <mxCell id="LEmi7CgOE6bSKT9T-nRJ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="160" width="160" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="LEmi7CgOE6bSKT9T-nRJ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.338;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LEmi7CgOE6bSKT9T-nRJ-7" target="LEmi7CgOE6bSKT9T-nRJ-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LEmi7CgOE6bSKT9T-nRJ-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="260" y="175" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LEmi7CgOE6bSKT9T-nRJ-8" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpc_nat_gateway;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="308" width="69" height="72" as="geometry" />
+          <mxGeometry x="260" y="280" width="69" height="72" as="geometry" />
         </mxCell>
         <mxCell id="LEmi7CgOE6bSKT9T-nRJ-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="112.5" width="290" height="325" as="geometry" />
@@ -48,6 +51,15 @@
         </mxCell>
         <mxCell id="LEmi7CgOE6bSKT9T-nRJ-21" value="" style="fillColor=#28A8E0;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.logging_reporting;" vertex="1" parent="1">
           <mxGeometry x="480" y="147" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="LEmi7CgOE6bSKT9T-nRJ-25" value="ANDROID USER" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="45" y="175" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LEmi7CgOE6bSKT9T-nRJ-26" value="USSD" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="62.5" y="350" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LEmi7CgOE6bSKT9T-nRJ-27" value="APIGEE&lt;br&gt;API&lt;br&gt;PLATFORM" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="180" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
