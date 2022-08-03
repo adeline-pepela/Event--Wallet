@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T08:59:48.687Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="lKpvgt7t4P5rWeqSRM4X" version="20.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-03T09:03:49.956Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="XdHkS_CKvpn_cq-L1e86" version="20.2.2" type="github" pages="2">
   <diagram id="c1B_nayesOdQMAULYURK" name="Page-1">
     <mxGraphModel dx="796" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -202,8 +202,14 @@
         <mxCell id="vXjr5UIfWxcsvkfZKRuC-26" value="Confirm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="145" y="1075" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vXjr5UIfWxcsvkfZKRuC-27" value="Pay Ksh 10,000&lt;br&gt;&amp;nbsp;to &quot;Contact A&quot; on &quot;date&quot;&lt;br&gt;&lt;br&gt;&lt;br&gt;Ok&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Cancel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="95" y="1155" width="150" height="90" as="geometry" />
+        <mxCell id="vXjr5UIfWxcsvkfZKRuC-27" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Pay Ksh 10,000&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;to &quot;Contact A&quot; on &quot;date&quot;&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.Ok&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Cancel&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="1165" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vXjr5UIfWxcsvkfZKRuC-28" value="Select 1. Ok" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="1355" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vXjr5UIfWxcsvkfZKRuC-29" value="Enter M-PESA PIN&lt;br&gt;&lt;br&gt;&lt;br&gt;----------------&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.Ok&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.Cancel&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="1175" width="120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
