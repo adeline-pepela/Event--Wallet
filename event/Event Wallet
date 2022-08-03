@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T08:55:20.811Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="QLUGoW9N8AtnQ-gXdNiB" version="20.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-03T08:59:48.687Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="lKpvgt7t4P5rWeqSRM4X" version="20.2.2" type="github" pages="2">
   <diagram id="c1B_nayesOdQMAULYURK" name="Page-1">
     <mxGraphModel dx="796" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -186,6 +186,24 @@
         </mxCell>
         <mxCell id="vXjr5UIfWxcsvkfZKRuC-20" value="Pay" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="615" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vXjr5UIfWxcsvkfZKRuC-21" value="Date" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="625" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vXjr5UIfWxcsvkfZKRuC-22" value="Message" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="665" y="615" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vXjr5UIfWxcsvkfZKRuC-24" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1030" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="vXjr5UIfWxcsvkfZKRuC-25" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="1040" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="vXjr5UIfWxcsvkfZKRuC-26" value="Confirm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="145" y="1075" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vXjr5UIfWxcsvkfZKRuC-27" value="Pay Ksh 10,000&lt;br&gt;&amp;nbsp;to &quot;Contact A&quot; on &quot;date&quot;&lt;br&gt;&lt;br&gt;&lt;br&gt;Ok&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Cancel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="1155" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
